@@ -1,37 +1,37 @@
-# 👋 Merhaba, Ben Mert Taha Kocatepe!
+# 👋 Hi, I'm Mert Kocatepe!
 
-Bilgisayar Programcılğı mezunu , Yönetim Bilişim Sistemleri (YBS) öğrencisi ve veri tabanı odaklı sistemlere meraklı bir **Full-Stack Yazılım Geliştiriciyim**. Modern web ve mobil teknolojilerini kullanarak ölçeklenebilir, performanslı ve kullanıcı dostu uygulamalar geliştirmeye odaklanıyorum.
-
----
-
-### 💻 Üzerinde Çalıştığım & İlgi Duyduğum Alanlar
-
-*   **Backend Mühendisliği:** C#, .NET ve Python mimarileri üzerinde çalışıyor; SQL ile ilişkisel veri tabanı tasarımı ve optimizasyonu gerçekleştiriyorum.
-*   **Mobil Uygulama Geliştirme:** Flutter ve Dart kullanarak platformlar arası (Cross-Platform) mobil uygulamalar inşa ediyorum.
-*   **Frontend & Web UI:** React tabanlı dinamik web uygulamaları geliştiriyor, projelerim için Figma üzerinde profesyonel UI Tasarım Sistemleri (Design Systems) ve Stil Rehberleri (Style Guides) hazırlıyorum.
-*   **Siber Güvenlik:** Web uygulama güvenliği, zafiyet analizleri (SQL Injection mantığı) ve Linux tabanlı şifre kurtarma/güvenlik araçlarına ilgi duyuyorum.
+I am a **Full-Stack Software Developer** holding an Associate Degree in Computer Programming and currently pursuing my Bachelor's Degree in Management Information Systems (MIS). I am highly focused on backend engineering and database-driven systems, passionate about building scalable, high-performance, and user-centric applications using modern web and mobile technologies.
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler & Araçlar
+### 💻 Areas of Interest & Expertise
 
-*   **Diller:** C#, Python, Dart, JavaScript, SQL
-*   **Frameworks & Kütüphaneler:** .NET, Flutter, React
-*   **Veri Tabanı:** MS SQL / PostgreSQL / MySQL
-*   **Tasarım & UI:** Figma (UI Design Systems & Style Guides)
-*   **Geliştirme Ortamı:** Visual Studio Code, Visual Studio
-
----
-
-### 🚀 Öne Çıkan Projelerim
-
-*   **Katalog_app:** `wantapi` entegrasyonu ve gelişmiş varlık (asset) yönetimi içeren, Flutter ve Dart ile sıfırdan inşa edilmiş cross-platform mobil katalog uygulaması.
-*   **React Todo App:** Yerel depolama (LocalStorage), Pomodoro zamanlayıcısı ve not panosu (notes dashboard) özelliklerine sahip gelişmiş ve modüler bir yapılacaklar uygulaması.
-*   **CyberDoc UI Tasarım Sistemi:** Bir projenin baştan sona profesyonel seviyeye taşınması için Figma üzerinde sıfırdan kurgulanmış kapsamlı arayüz tasarım sistemi ve stil rehberi.
+*   **Backend Engineering:** Developing robust server-side architectures using C#, .NET, and Python, alongside designing and optimizing relational databases with SQL.
+*   **Mobile App Development:** Crafting cross-platform mobile experiences utilizing Flutter and Dart.
+*   **Frontend & Web UI:** Creating dynamic web applications with React, and architecting comprehensive UI Design Systems and Style Guides in Figma.
+*   **Cybersecurity:** Exploring web application security, SQL injection logic, and utilizing Linux-based vulnerability analysis and password recovery tools.
 
 ---
 
-### 📬 Benimle İletişime Geçin
+### 🛠️ Tech Stack & Tools
 
-*   **LinkedIn:** [www.linkedin.com/in/mertkocatepe]
-*   **E-posta:** [mertkctep@hotmail.com]
+*   **Languages:** C#, Python, Dart, JavaScript, SQL
+*   **Frameworks & Libraries:** .NET, Flutter, React
+*   **Databases:** MS SQL / PostgreSQL / MySQL
+*   **Design & UI:** Figma (UI Design Systems & Style Guides)
+*   **Development Environment:** Visual Studio Code, Visual Studio
+
+---
+
+### 🚀 Featured Projects
+
+*   **Katalog_app:** A cross-platform mobile catalog application built from scratch using Flutter and Dart, featuring `wantapi` integration and advanced asset management.
+*   **React Todo App:** A feature-rich and modular task management application incorporating LocalStorage, a built-in Pomodoro timer, and a notes dashboard.
+*   **CyberDoc UI Design System:** A professional-grade, comprehensive user interface design system and style guide created from scratch in Figma to elevate product presentation.
+
+---
+
+### 📬 Connect with Me
+
+*   **LinkedIn:** [https://www.linkedin.com/in/mertkocatepe/)
+*   **Email:** [mertkctpe@hotmail.com]
