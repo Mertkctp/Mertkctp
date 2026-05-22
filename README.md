@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mert Kocatepe!
 
-I am a **Full-Stack Software Developer** holding an Associate Degree in Computer Programming and currently pursuing my Bachelor's Degree in Management Information Systems (MIS). I am highly focused on backend engineering and database-driven systems, passionate about building scalable, high-performance, and user-centric applications using modern web and mobile technologies.
+I am a junior **Full-Stack Software Developer** holding an Associate Degree in Computer Programming and currently pursuing my Bachelor's Degree in Management Information Systems (MIS). I am highly focused on backend engineering and database-driven systems, passionate about building scalable, high-performance, and user-centric applications using modern web and mobile technologies.
 
 ---
 
